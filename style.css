@@ -1,0 +1,498 @@
+.odometer.odometer-auto-theme,.odometer.odometer-auto-theme .odometer-digit,.odometer.odometer-theme-default,.odometer.odometer-theme-default .odometer-digit {
+    display: inline-block;
+    vertical-align: middle;
+    *vertical-align: auto;
+    *zoom:1;*display: inline;
+    position: relative
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-digit-spacer,.odometer.odometer-theme-default .odometer-digit .odometer-digit-spacer {
+    display: inline-block;
+    vertical-align: middle;
+    *vertical-align: auto;
+    *zoom:1;*display: inline;
+    visibility: hidden
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner,.odometer.odometer-theme-default .odometer-digit .odometer-digit-inner {
+    text-align: left;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-ribbon,.odometer.odometer-theme-default .odometer-digit .odometer-ribbon {
+    display: block
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-ribbon-inner,.odometer.odometer-theme-default .odometer-digit .odometer-ribbon-inner {
+    display: block;
+    -webkit-backface-visibility: hidden
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-value,.odometer.odometer-theme-default .odometer-digit .odometer-value {
+    display: block;
+    -webkit-transform: translateZ(0)
+}
+
+.odometer.odometer-auto-theme .odometer-digit .odometer-value.odometer-last-value,.odometer.odometer-theme-default .odometer-digit .odometer-value.odometer-last-value {
+    position: absolute
+}
+
+.odometer.odometer-auto-theme.odometer-animating-up .odometer-ribbon-inner,.odometer.odometer-theme-default.odometer-animating-up .odometer-ribbon-inner {
+    transition: transform 2s
+}
+
+.odometer.odometer-auto-theme.odometer-animating-down .odometer-ribbon-inner,.odometer.odometer-auto-theme.odometer-animating-up.odometer-animating .odometer-ribbon-inner,.odometer.odometer-theme-default.odometer-animating-down .odometer-ribbon-inner,.odometer.odometer-theme-default.odometer-animating-up.odometer-animating .odometer-ribbon-inner {
+    transform: translateY(-100%)
+}
+
+.odometer.odometer-auto-theme.odometer-animating-down.odometer-animating .odometer-ribbon-inner,.odometer.odometer-theme-default.odometer-animating-down.odometer-animating .odometer-ribbon-inner {
+    transition: transform 2s;
+    transform: translateY(0)
+}
+
+.odometer.odometer-auto-theme,.odometer.odometer-theme-default {
+    font-family: Helvetica Neue,sans-serif;
+    line-height: 1.1em
+}
+
+.odometer.odometer-auto-theme .odometer-value,.odometer.odometer-theme-default .odometer-value {
+    text-align: center
+}
+
+.home_main_profile__Uf_vc {
+    background-color: var(--bg3);
+    border-radius: 5px;
+    border: .5px solid #38444d
+}
+
+.home_main_profile__Uf_vc ul li {
+    background-color: var(--bg2);
+    color: var(--color1);
+    border: 1px solid rgba(0,0,0,.125)
+}
+
+.home_link_item__2FmN_ {
+    background-color: var(--bg4);
+    border-bottom: 3px solid var(--color1);
+    box-shadow: var(--shadow2) 0 4px 8px -2px,var(--color1) 0 0 0 .2px;
+    margin-bottom: 15px;
+    padding: 15px 12px;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color .15s
+}
+
+.home_link_item__2FmN_:hover {
+    background-color: var(--bg6)
+}
+
+.home_link_item__2FmN_ div {
+    margin: 15px
+}
+
+.home_sticky-ad__SF0wB {
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(0,0,0,.2);
+    width: 90%;
+    height: 20%;
+    max-width: 728px;
+    max-height: 90px;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 9999
+}
+
+.home_sticky-ad__SF0wB .home_sticky-ad-content__phNaN {
+    margin: 0 auto;
+    position: absolute;
+    height: 90px;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+
+.home_sticky-ad-close__i95VV {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -10px
+}
+
+.home_sticky-ad-close__i95VV svg {
+    width: 20px;
+    height: 20px
+}
+
+.home_adBlockDetect__QcER_ {
+    box-shadow: var(--shadow1) 0 7px 29px 0;
+    background-color: darkred;
+    width: 100%;
+    border-radius: 5px;
+    border: .5px solid #38444d;
+    color: #989faf;
+    padding: .5rem;
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center
+}
+
+.compareId_chart__ur9Yi,.compareId_disqus__9bc0V,.compareId_form__vnWep,.compareId_main_profile__g7guk,.compareId_odo__lSRPQ,.compareId_profile_top__vZ3uv {
+    background-color: var(--bg3);
+    border-radius: 5px;
+    color: var(--color1);
+    margin: 0 auto;
+    border: .5px solid #38444d
+}
+
+.compareId_main_profile__g7guk ul li {
+    background-color: var(--bg2);
+    color: var(--color1);
+    border: 1px solid rgba(0,0,0,.125)
+}
+
+.compareId_profiles__6ztd9 {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 20px;
+    column-gap: 20px
+}
+
+.compareId_profile_top__vZ3uv {
+    margin-top: 15px
+}
+
+.compareId_difference__3Ln4B {
+    background-color: var(--bg3);
+    border-radius: 5px;
+    color: var(--color1);
+    margin: 20px auto 0;
+    max-width: 800px;
+    width: 72.5%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    border: .5px solid #38444d
+}
+
+.compareId_form__vnWep form {
+    margin: 0 auto;
+    max-width: 800px
+}
+
+.compareId_form-control__oANBn {
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    line-height: 25px;
+    border-radius: 6px;
+    color: var(--color1);
+    background-color: var(--bg1);
+    border: .5px solid #38444d;
+    transition: border .2s ease
+}
+
+.compareId_form-control__oANBn::placeholder {
+    color: var(--color1)
+}
+
+.compareId_form-control__oANBn:focus {
+    outline: none;
+    border: .5px solid #4e6e86
+}
+
+.compareId_form-control__oANBn:focus::placeholder {
+    color: transparent
+}
+
+.compareId_form-group__l5u5o {
+    text-align: center;
+    width: 80%;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin: 0 auto
+}
+
+.compareId_form-label__d7i90 {
+    display: block
+}
+
+.compareId_main-button___d9xc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.compareId_submit-button__SJIxh {
+    display: inline-block;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    color: var(--color1);
+    background-color: var(--bg6);
+    border: 1px solid #38444d;
+    border-radius: .25rem;
+    cursor: pointer;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: all .1s ease-in-out
+}
+
+.compareId_submit-button__SJIxh:hover {
+    background-color: var(--bg1);
+    border: 1px solid #4e6e86
+}
+
+.compareId_submit-button__SJIxh:active {
+    transform: scale(.98)
+}
+
+.compareId_chart__ur9Yi,.compareId_disqus__9bc0V,.compareId_form__vnWep,.compareId_main_profile__g7guk,.compareId_odo__lSRPQ {
+    padding: .5rem
+}
+
+.compareId_color1__EAVXp {
+    color: var(--color1)
+}
+
+.compareId_avater__M_WJO img {
+    width: 90px;
+    height: 90px;
+    margin-top: -50px;
+    border: 4px solid #000;
+    box-shadow: var(--shadow2) 0 4px 8px -2px,rgba(9,30,66,.08) 0 0 0 1px;
+    border-radius: 50%;
+    cursor: pointer
+}
+
+.compareId_avater__M_WJO {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.compareId_counter__I4h77,.compareId_odometer__6Ny_t,.compareId_title__y_MPn {
+    text-align: center
+}
+
+.compareId_title__y_MPn {
+    font-size: 25px;
+    margin: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+    width: 50%
+}
+
+.compareId_counter__I4h77 {
+    text-transform: capitalize;
+    padding-bottom: 10px
+}
+
+.compareId_thumbnail__ZtaK6 {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer
+}
+
+.compareId_about__m9FZ7 {
+    text-align: center;
+    word-wrap: break-word
+}
+
+.compareId_about__m9FZ7 div p,.compareId_about__m9FZ7 p {
+    padding: 10px
+}
+
+.compareId_odometer__6Ny_t {
+    font-size: 30px
+}
+
+.compareId_odometer2__dY0iK {
+    font-size: 15px
+}
+
+.compareId_barList__X14Nb {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0
+}
+
+.compareId_barList__X14Nb li {
+    cursor: pointer;
+    border: .5px solid #344049;
+    height: 50px;
+    background-color: var(--bg4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 132px;
+    width: 100%;
+    transition: all .1s ease-in-out
+}
+
+.compareId_barList__X14Nb li button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: inherit
+}
+
+.compareId_barList__X14Nb li:first-child,.compareId_barList__X14Nb li:first-child .compareId_barLinks__ucTTv {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px
+}
+
+.compareId_barList__X14Nb li:last-child,.compareId_barList__X14Nb li:last-child .compareId_barLinks__ucTTv {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px
+}
+
+.compareId_barList__X14Nb li:hover {
+    color: #6495ed;
+    background-color: var(--bg6)
+}
+
+.compareId_barLinks__ucTTv {
+    color: #6495ed;
+    background-color: var(--bg6)!important
+}
+
+@media(max-width: 575.98px) {
+    .compareId_profiles__6ztd9 {
+        display:block
+    }
+
+    .compareId_profile_top__vZ3uv:first-child {
+        margin-bottom: 17px
+    }
+
+    .compareId_difference__3Ln4B {
+        height: 70px
+    }
+}
+
+@media(min-width: 576px) {
+    .compareId_odometer__6Ny_t {
+        font-size:40px
+    }
+
+    .compareId_odometer2__dY0iK {
+        font-size: 20px
+    }
+
+    .compareId_avater__M_WJO img {
+        width: 100px;
+        height: 100px;
+        margin-top: -75px
+    }
+
+    .compareId_thumbnail__ZtaK6 {
+        width: 100%;
+        height: 150px;
+        object-fit: cover
+    }
+}
+
+@media(min-width: 768px) {
+    .compareId_odometer__6Ny_t {
+        font-size:45px
+    }
+
+    .compareId_odometer2__dY0iK {
+        font-size: 25px
+    }
+
+    .compareId_avater__M_WJO img {
+        width: 125px;
+        height: 125px;
+        margin-top: -75px
+    }
+
+    .compareId_thumbnail__ZtaK6 {
+        width: 100%;
+        height: 175px;
+        object-fit: cover
+    }
+}
+
+@media(min-width: 992px) {
+    .compareId_odometer__6Ny_t {
+        font-size:50px
+    }
+
+    .compareId_odometer2__dY0iK {
+        font-size: 27px
+    }
+
+    .compareId_avater__M_WJO img {
+        width: 200px;
+        height: 200px;
+        margin-top: -75px
+    }
+
+    .compareId_thumbnail__ZtaK6 {
+        width: 100%;
+        height: 200px;
+        object-fit: cover
+    }
+}
+
+@media(min-width: 1200px) {
+    .compareId_odometer__6Ny_t {
+        font-size:55px
+    }
+
+    .compareId_odometer2__dY0iK {
+        font-size: 30px
+    }
+
+    .compareId_avater__M_WJO img {
+        width: 200px;
+        height: 200px;
+        margin-top: -75px
+    }
+
+    .compareId_thumbnail__ZtaK6 {
+        width: 100%;
+        height: 225px;
+        object-fit: cover
+    }
+}
+
+.compareId_tableCount__T2kGu {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: 0 auto;
+    color: var(--color1);
+    grid-column-gap: 8px;
+    column-gap: 8px
+}
+
+.compareId_tableCount__T2kGu .compareId_main_profile__g7guk {
+    width: 100%;
+    text-align: center
+}
