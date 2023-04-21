@@ -1,8 +1,54 @@
-UUBZPPYU_l99Mg6-GXm6xbMg sautisol
-UUHVTpHXp43Giiwag5s6o8xQ wajesus
-UU0UslOx9EYxnk_4SFSHj8hA diana bahati
-UC2O6vD7gjgZIXKVegD6qOHA bahati
-UCNzd8n4UapaAtrhC062RxDQ nyashinski
+
+                'UChBQgieUidXV1CmDxSdRm3g', # Citizen TV Kenya
+                'UCUi4aspUAMcEG5ZEdnOrBQg', # TechFreeze
+                'UCKVsdeoHExltrWMuK0hOWmg', # KTN News
+                'UCqBJ47FjJcl61fmSbcadAVg', # NTV Kenya
+                'UC0YG5UA1s2gLb5tDfUCIWtg', # Churchill Television
+                'UCwIprIN8y8BKXOquJlCNmQQ', # Africha Entertainment
+                'UCjmekPU55cJXJqcMX8aQbcA', # TAMUTAMU TV
+                'UCt3SE-Mvs3WwP7UW-PiFdqQ', # K24TV
+                'UCvA_SWl8Ti3hvbmJyrLFqZQ', # Otile Brown Official
+                'UCPItWuTeMLc34XECuG-hhUg', # RDHDComps
+                'UC2O6vD7gjgZIXKVegD6qOHA', # Bahati Kenya
+                'UC5kGMWL-g-T1n4inkrpNAmQ', # Simulizi Na Sauti
+                'UCBhPZ6lnTfQZn0bvARil-Xg', # Sharma Boy
+                'UCgdVgtJQXxebSiSAzlhYczw', # Willy Paul Thee Pozze
+                'UCz9jK123qAo5ATWtuuCn8IA', # Nation
+                'UCBZPPYU_l99Mg6-GXm6xbMg', # Sauti Sol
+                'UCdM2hN2cxe1Ux0Bcn4Hslpg', # RICHY HANIEL
+                'UCCN0QF1suEsqrJTL_7iDdTA', # HeroSmashers
+                'UCHy8W_qop56jQfX_wIc1vfA', # Astaan
+                'UCl6ICaB9meBcSMQ5Zmr446g', # Tuko / Tuco - Kenya
+                'UCXxrjCtnluGtthoTg5jrlNQ', # TT Comedian
+                'UC0UslOx9EYxnk_4SFSHj8hA', # DIANA BAHATI
+                'UCdYjYt4YGhEbCGMv1fbv0pg', # Ebru TV Kenya
+                'UCQ5nC63JSNWipdMA5llgqUw', # Africha Movies
+                'UCABZrkBsGdCRGpibJOkKKmw', # Coke Studio Africa
+                'UCMeYPU1YfXjxsUa6QXWsfjg', # CGTN Africa
+                'UCcKlbixN7Y18urFmHyg6LXQ', # Alvins Audi
+                'UC0ZTPkdxlAKf-V33tqXwi3Q', # HackerSploit
+                'UCCtBJ9MP1PE_A1Qz4AUi46Q', # PPP TV
+                'UCGszJuvHqu5nxKJiEoLySFg', # Lii Caato Officiall
+                'UCRRSCAz5VJQqJHAIPgFVCxw', # Khaligraph Jones
+                'UCcBNWxvAXH-nTAzOeuuLHgw', # Mungai Eve
+                'UCW-tsAUsfWkfesVz4ssVypQ', # Nasra Abtidoon
+                'UCHP5eH8TG3Tqr4pSbqULDcw', # Salafmedia
+                'UCQnkpcdpIVqWN7HqoxrRjRg', # Badbaado Channel
+                'UC7MGnWilDcg157op0eKI1Tg', # Henry DeSagu
+                'UCNmMsa1IwJmRMZVycuI-7yQ', # Qurux Ku Dhiigle
+                'UCOYCAUmKcBJUjmHwLH-pxGw', # Raage Abdi
+                'UCUhrpGr_luwUzVaxiW5Jkhw', # Switch TV
+                'UCjG66-ryVCszrs7k_Y2pn3Q', # Flaqo Raz
+                'UCs0UVGIfAMAZKgq8W2W9Tqg', # Tileh Pacbro
+                'UCkV3t4uxBsi8jYj3wjqooeQ', # NJUGUSH TV
+                'UCcRDo_XFM87LZIQAFK60HNw', # NOMADPROSTORY
+                'UCP6LRxQqx1wMNqlggF5qa_A', # Lil Baliil
+                'UCFG1zHs55s1my124O3Nk9DQ', # Jalango TV
+                'UCHVTpHXp43Giiwag5s6o8xQ', # THE WAJESUS FAMILY
+                'UC6QjtrmjCTrDFGG62GE4KZQ', # Kenya Digital News
+                'UCa2gldA2ivhzMwIJRA5683w', # Lynn Ngugi
+                'UC3oB2wHmXwFr5OqD1HzKU6g', # Muniir official
+                'UCiXj0BfxM0WQGFr9mxdR0qg', # Crazy Kennar
 
 SIZE 8
 SSARU
