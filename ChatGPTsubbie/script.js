@@ -9,7 +9,7 @@ const channels = [
     // Andrew Kibe Subscribers
     { name: "Channel 1", url: "https://mixerno.space/embed/youtube-channel-counter/UCMD-JmezXoQiV9PiWLwVpGQ" },
     // Andrew Kibe Subscribers
-    { name: "Channel 1", url: "https://mixerno.space/embed/youtube-channel-counter/UCiXj0BfxM0WQGFr9mxdR0qg" },
+    { name: "Channel 1", url: "https://mixerno.space/embed/youtube-channel-counter/UCBZPPYU_l99Mg6-GXm6xbMg" },
     // Andrew Kibe Subscribers
     { name: "Channel 1", url: "https://mixerno.space/embed/youtube-channel-counter/UCiXj0BfxM0WQGFr9mxdR0qg" },
     // Andrew Kibe Subscribers
