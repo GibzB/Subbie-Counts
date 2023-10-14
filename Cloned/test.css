@@ -1,0 +1,24 @@
+/* Define styles for the multicolumn layout */
+.multicolumn {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    margin: 5px;
+    text-align: center;
+}
+
+/* Style the iframe */
+iframe {
+    width: 100%;
+    height: 150px;
+    border: 0;
+}
+
+/* Ensure the container fits within 120px by 500px */
+.multicolumn {
+    max-width: 600px;
+    max-height: 100px;
+    flex-direction: column; /* Stack columns vertically if content doesn't fit */
+}
