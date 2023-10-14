@@ -28,7 +28,20 @@ const channels = [
     { url: "https://mixerno.space/embed/youtube-channel-counter/UC4tjY2tTltEKePusozUxtSA" },
     // Channel_LynnNgugi Subscribers
     { url: "https://mixerno.space/embed/youtube-channel-counter/UCa2gldA2ivhzMwIJRA5683w?counter=0" },
-    
+    // Channel_FlaqoRaz Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UCjG66-ryVCszrs7k_Y2pn3Q" },
+    // Channel_OtileBrown Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UCvA_SWl8Ti3hvbmJyrLFqZQ" },
+    // Channel_TilehPacbro Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UCs0UVGIfAMAZKgq8W2W9Tqg" },
+    // Channel_TTComedian Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UCXxrjCtnluGtthoTg5jrlNQ" },
+    // Channel_JalangoTV Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UCFG1zHs55s1my124O3Nk9DQ" },
+    // Channel_KenyaDigitalNews Subscribers
+    { url: "https://mixerno.space/embed/youtube-channel-counter/UC6QjtrmjCTrDFGG62GE4KZQ" },
+
+
     
     // Add more channels here
 ];
