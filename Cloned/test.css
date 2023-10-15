@@ -1,24 +1,34 @@
-/* Define styles for the multicolumn layout */
-.multicolumn {
-    display: flex;
+
+
+/* Style the image container */
+.image {
+  flex: 0 0 100px; /* Fixed width of 100px for the image container */
+  border: 5px solid #000; /* Add a 5px boundary (border) to the image container */
+  margin: 5px; /* Add margin around the image container for spacing */
 }
 
+/* Style each column */
+/* Style the multicolumn container */
+.multicolumn {
+  display: flex; /* Use flexbox to create columns */
+}
+
+/* Style each column */
 .column {
-    flex: 1;
-    margin: 5px;
-    text-align: center;
+  flex: 1; /* Distribute available space evenly among columns */
+  border: 3px solid #000; /* Add a 5px boundary (border) to each column */
+  padding: 1px; /* Add some padding inside the column */
+  margin: 1px; /* Add margin around each column for spacing */
 }
 
-/* Style the iframe */
-iframe {
-    width: 100%;
-    height: 150px;
-    border: 0;
+.iframe.Youtube-channel-name {
+ border: 0;
+ align-content: start;
+ align-items: start;
 }
 
-/* Ensure the container fits within 120px by 500px */
-.multicolumn {
-    max-width: 600px;
-    max-height: 100px;
-    flex-direction: column; /* Stack columns vertically if content doesn't fit */
+.p {
+  font-size: 24px;
+  align-items:start
 }
+
