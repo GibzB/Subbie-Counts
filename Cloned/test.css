@@ -1,34 +1,36 @@
 
-
-/* Style the image container */
-.image {
-  flex: 0 0 100px; /* Fixed width of 100px for the image container */
-  border: 5px solid #000; /* Add a 5px boundary (border) to the image container */
-  margin: 5px; /* Add margin around the image container for spacing */
+.count {
+  font-size: 25px;
+  align-items: centre;
+  width: 40px;
 }
 
-/* Style each column */
-/* Style the multicolumn container */
-.multicolumn {
-  display: flex; /* Use flexbox to create columns */
+iframe {
+  width: 700px;
+  height: 100px;
+  border: 1px solid red;
 }
 
-/* Style each column */
-.column {
-  flex: 1; /* Distribute available space evenly among columns */
-  border: 3px solid #000; /* Add a 5px boundary (border) to each column */
-  padding: 1px; /* Add some padding inside the column */
-  margin: 1px; /* Add margin around each column for spacing */
+.image-container {
+  width: 750px;
+  height: 100px;
+  border: 1px solid red;
 }
 
-.iframe.Youtube-channel-name {
- border: 0;
- align-content: start;
- align-items: start;
+img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid red;
 }
 
-.p {
-  font-size: 24px;
-  align-items:start
+.youtube_name {
+  border: 1px solid red;
+  width: 750px;
+  height: 50px;
+  font-size: 20px;
 }
 
+div {
+  display: flex;
+}
