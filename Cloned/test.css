@@ -2,26 +2,21 @@
 .count {
   font-size: 25px;
   align-items: centre;
+  height: 100px;
   width: 40px;
 }
 
 iframe {
   width: 700px;
-  height: 100px;
-  border: 1px solid red;
+  height: 130px;
+  border: 10px solid rgb(0, 32, 214);
+  padding: 1px;
 }
 
 .image-container {
-  width: 750px;
+  width: 550px;
   height: 100px;
-  border: 1px solid red;
-}
-
-img {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-  border: 1px solid red;
+  border: 2px solid rgb(0, 0, 0);
 }
 
 .youtube_name {
